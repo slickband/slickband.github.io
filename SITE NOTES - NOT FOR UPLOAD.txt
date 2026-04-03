@@ -1,4 +1,0 @@
-when making icons for homepage in paint.net:
--450 dpi
--2000 x 2000 pix
--use franklin gothic demi condensed
